@@ -1,3 +1,13 @@
+void multiplication()
+{
+  c=a*b
+}
+
+void division()
+{
+  c=a/b
+}
+
 void addition()
 {
   c=a+b
