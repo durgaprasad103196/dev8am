@@ -6,7 +6,11 @@ class Bank
     bal = bal + amount;
   }	  
 
-  
+  void withdraw()
+  {
+    bal = bal - amount;
+  }
+
   public static void main(..)
   {
     system.out.print(" Hello world ");
