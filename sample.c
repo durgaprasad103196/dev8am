@@ -1,3 +1,22 @@
+void Test-code()
+{
+  printf(" Test code ");
+  printf(" Test code ");
+  printf(" Test code ");
+  printf(" Test code ");
+  printf(" Test code ");
+}
+
+
+
+
+
+
+
+
+
+
+
 void multiplication()
 {
   c=a*b
