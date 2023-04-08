@@ -15,6 +15,15 @@ class B
 }
 
 
+class C
+{
+   ... TEST CODE-C ....
+   ... TEST CODE-C ....
+   ... TEST CODE-C ....
+}
+
+
+
 class test
 {
   public static void main()
