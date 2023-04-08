@@ -7,6 +7,13 @@ class A
 }
 
 
+class B
+{
+   ... TEST CODE-B ....
+   ... TEST CODE-B ....
+   ... TEST CODE-B ....
+}
+
 
 class test
 {
